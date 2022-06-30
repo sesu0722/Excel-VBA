@@ -3,7 +3,7 @@ Bootcamp Assignment#2
 Projext Name: The VBA of Wall Street
 
 #Description:
-	In this project, the VBA scripting is used to analyze generated stock market data from 2018 to 2020.
+In this project, the VBA scripting is used to analyze generated stock market data from 2018 to 2020.
 It generates yearly change and total stock volume of every stock. Also,the stocks with greatest %
 increase, % decrease and total volume is showed for bonus information.
 
@@ -11,7 +11,7 @@ increase, % decrease and total volume is showed for bonus information.
 #Author: I Ju SU selina.iju@gmail.com
 #How to start working with this?
  1. Download the Mutiple_year_stock_data.vbs.bas from https://github.com/sesu0722/VBA-challenge/blob/main/Multiple_year_stock_data.vbs.bas
- 2. Open the excel workbook Mutiple_year_stock_data.xlsm (*the file is too large to upload to GitHub)
+ 2. Open the excel workbook Mutiple_year_stock_data.xlsm 
  3. run the VBA script on the excel workbook.
  4. It will automaticly generate the tickers, yearly change, percent change and total stock volume for each year/wooksheet,and highlight the       positive/negetive changes in green/red.
  5. An array shows stocks with greastest % changes and volume is created for bonus.
