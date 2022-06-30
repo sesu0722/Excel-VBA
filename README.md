@@ -3,7 +3,7 @@ Bootcamp Assignment#2
 Projext Name: The VBA of Wall Street
 
 #Description:
-#In this project, the VBA scripting is used to analyze generated stock market data from 2018 to 2020.
+	In this project, the VBA scripting is used to analyze generated stock market data from 2018 to 2020.
 It generates yearly change and total stock volume of every stock. Also,the stocks with greatest %
 increase, % decrease and total volume is showed for bonus information.
 
