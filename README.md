@@ -1,5 +1,4 @@
 # VBA-challenge
-Bootcamp Assignment#2 
 Projext Name: The VBA of Wall Street
 
 #Description
